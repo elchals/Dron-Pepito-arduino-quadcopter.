@@ -1,1 +1,0 @@
-# Dron-Pepito-arduino-quadcopter.
